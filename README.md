@@ -51,7 +51,7 @@
 <h4> The ones with the GitHub logo are on my GitHub if you want to check it out! </h4>
 	
 <div align="center">
-	<img align="center" height="200" width="400" alt="ChordsTheory Banners" title="ChordsTheory" src="./banners/chordstheory_banner.png" />
+	<a href="https://github.com/LuizaValezim/chords-theory"> <img align="center" height="200" width="400" alt="ChordsTheory Banners" title="ChordsTheory" src="./banners/chordstheory_banner.png" /></a>
 <!-- 	<img align="center" height="200" width="400" alt="ChordsTheory Banners" title="ChordsTheory" src="./banners/chordstheory_banner.png" /> -->
 </div>
 	

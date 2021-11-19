@@ -5,7 +5,8 @@
 - 👩‍💻 Computer Engineering Student at Insper
 - 👩 19 years old
 - ✨ Extremely curious
-- 💖 Passionate about Machine Learning, Quantum Computing and Astronomics 
+- 💖 Passionate about Machine Learning, Quantum Computing, and Astronomics 
+- 🗺️ Fluent in English, Portuguese, and Spanish
 
 <div align="center">
   <a href="https://github.com/LuizaValezim">
@@ -51,7 +52,7 @@
 <h4> The ones with the GitHub logo are on my GitHub if you want to check it out! </h4>
 	
 <div align="center">
-	<a href="https://github.com/LuizaValezim/chords-theory"> <img align="center" height="200" width="400" alt="ChordsTheory Banners" title="ChordsTheory" src="./banners/chordstheory_banner.png" /></a>
+	<a href="https://chords-theory.herokuapp.com/"> <img align="center" height="200" width="400" alt="ChordsTheory Banners" title="ChordsTheory" src="./banners/chordstheory_banner.png" /></a>
 <!-- 	<img align="center" height="200" width="400" alt="ChordsTheory Banners" title="ChordsTheory" src="./banners/chordstheory_banner.png" /> -->
 </div>
 	

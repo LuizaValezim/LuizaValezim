@@ -48,6 +48,12 @@
 
 ---
 
+<h1 align="center">
+  <img alt="ChordsTheory Banners" title="ChordsTheory" src="./banners/chordstheory_banner.png" />
+</h1>
+	
+---
+
 <h2 align="center"> You can reach me on - 📫 </h2>
 
 <p align="center">
@@ -57,6 +63,8 @@
 </p>
 
 ---
+	
+	
 
 <!--
 **LuizaValezim/LuizaValezim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

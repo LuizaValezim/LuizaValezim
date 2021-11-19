@@ -48,17 +48,6 @@
 
 ---
 
-<h2 align="center"> My programming language stats - 🌀 </h2>
-
-
-<p align="center">
-	<a target="_blank" href="https://github.com/LuizaValezim/github-readme-stats"><img src="https://github-readme-stats.LuizaValezim.vercel.app/api/top-langs/?username=LuizaValezim&layout=compact&theme=graywhite" width="400" /></a>
-</p>
-
-
----
-  
- 
 <h2 align="center"> You can reach me on - 📫 </h2>
 
 <p align="center">

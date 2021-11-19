@@ -5,10 +5,11 @@
 - 👩‍💻 Computer Engineering Student at Insper
 - 👩 19 years old
 - ✨ Extremely curious
-- 💖 Passionate about Machine Learning, Quantum Computing and Astronomics 
+- 💖 Passionate about Machine Learning, Quantum Computing, and Astronomics 
+- 🗺️ Fluent in English, Portuguese, and Spanish
 
-<div>
-  <a href="https://github.com/Kcpf">
+<div align="center">
+  <a href="https://github.com/LuizaValezim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizaValezim&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizaValezim&layout=compact&langs_count=7&theme=react"/>
 </div>
@@ -47,6 +48,15 @@
 
 
 ---
+<h2 align="center"> Here are some of my projects! - ⚙️ </h2>
+<h4> The ones with the GitHub logo are on my GitHub if you want to check it out! </h4>
+	
+<div align="center">
+	<a href="https://chords-theory.herokuapp.com/"> <img align="center" height="200" width="400" alt="ChordsTheory Banners" title="ChordsTheory" src="./banners/chordstheory_banner.png" /></a>
+<!-- 	<img align="center" height="200" width="400" alt="ChordsTheory Banners" title="ChordsTheory" src="./banners/chordstheory_banner.png" /> -->
+</div>
+	
+---
 
 <h2 align="center"> You can reach me on - 📫 </h2>
 
@@ -57,6 +67,8 @@
 </p>
 
 ---
+	
+	
 
 <!--
 **LuizaValezim/LuizaValezim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

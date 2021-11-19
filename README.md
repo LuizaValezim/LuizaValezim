@@ -49,12 +49,8 @@
 ---
 	
 <div>
-	<h1 align="center">
-	  <img align="center" height="300" width="600" alt="ChordsTheory Banners" title="ChordsTheory" src="./banners/chordstheory_banner.png" />
-	</h1>
-	<h1 align="center">
-	  <img align="center" height="300" width="600" alt="ChordsTheory Banners" title="ChordsTheory" src="./banners/chordstheory_banner.png" />
-	</h1>
+	<img align="center" height="250" width="500" alt="ChordsTheory Banners" title="ChordsTheory" src="./banners/chordstheory_banner.png" />
+	<img align="center" height="250" width="500" alt="ChordsTheory Banners" title="ChordsTheory" src="./banners/chordstheory_banner.png" />
 </div>
 	
 ---

@@ -49,7 +49,7 @@
 
 ---
 <h2 align="center"> Here are some of my projects! - ⚙️ </h2>
-<h4> The ones with the GitHub logo are on my GitHub if you want to check it out! </h4>
+<h4> The ones with the GitHub logo are on my GitHub, if you want to check it out! </h4>
 	
 <div align="center">
 	<a href="https://chords-theory.herokuapp.com/"> <img align="center" height="200" width="400" alt="ChordsTheory Banners" title="ChordsTheory" src="./banners/chordstheory.png" /></a>

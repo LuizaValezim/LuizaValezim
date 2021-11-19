@@ -49,7 +49,7 @@
 ---
 
 <h1 align="center">
-  <img align="center" height="100" width="200" alt="ChordsTheory Banners" title="ChordsTheory" src="./banners/chordstheory_banner.png" />
+  <img align="center" height="400" width="800" alt="ChordsTheory Banners" title="ChordsTheory" src="./banners/chordstheory_banner.png" />
 </h1>
 	
 ---

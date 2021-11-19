@@ -52,8 +52,8 @@
 <h4> The ones with the GitHub logo are on my GitHub if you want to check it out! </h4>
 	
 <div align="center">
-	<a href="https://chords-theory.herokuapp.com/"> <img align="center" height="200" width="400" alt="ChordsTheory Banners" title="ChordsTheory" src="./banners/chordstheory_banner.png" /></a>
-<!-- 	<img align="center" height="200" width="400" alt="ChordsTheory Banners" title="ChordsTheory" src="./banners/chordstheory_banner.png" /> -->
+	<a href="https://chords-theory.herokuapp.com/"> <img align="center" height="200" width="400" alt="ChordsTheory Banners" title="ChordsTheory" src="./banners/chordstheory.png" /></a>
+	<a href="https://vortx.com.br/"> <img align="center" height="200" width="400" alt="Vórtx Banners" title="Vórtx" src="./banners/vortx.png" /></a>
 </div>
 	
 ---

@@ -8,7 +8,7 @@
 - 💖 Passionate about Machine Learning, Quantum Computing and Astronomics 
 
 <div>
-  <a href="https://github.com/Kcpf">
+  <a href="https://github.com/LuizaValezim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizaValezim&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizaValezim&layout=compact&langs_count=7&theme=react"/>
 </div>
@@ -47,10 +47,15 @@
 
 
 ---
-
-<h1 align="center">
-  <img align="center" height="300" width="600" alt="ChordsTheory Banners" title="ChordsTheory" src="./banners/chordstheory_banner.png" />
-</h1>
+	
+<div>
+	<h1 align="center">
+	  <img align="center" height="300" width="600" alt="ChordsTheory Banners" title="ChordsTheory" src="./banners/chordstheory_banner.png" />
+	</h1>
+	<h1 align="center">
+	  <img align="center" height="300" width="600" alt="ChordsTheory Banners" title="ChordsTheory" src="./banners/chordstheory_banner.png" />
+	</h1>
+</div>
 	
 ---
 

@@ -50,7 +50,7 @@
 <h2 align="center"> Here are some of my projects! - ⚙️ </h2>
 <h4> The ones with the GitHub logo are on my GitHub if you want to check it out! </h4>
 	
-<div>
+<div align="center">
 	<img align="center" height="200" width="400" alt="ChordsTheory Banners" title="ChordsTheory" src="./banners/chordstheory_banner.png" />
 	<img align="center" height="200" width="400" alt="ChordsTheory Banners" title="ChordsTheory" src="./banners/chordstheory_banner.png" />
 </div>

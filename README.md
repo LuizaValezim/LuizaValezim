@@ -7,7 +7,7 @@
 - ✨ Extremely curious
 - 💖 Passionate about Machine Learning, Quantum Computing and Astronomics 
 
-<div>
+<div align="center">
   <a href="https://github.com/LuizaValezim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizaValezim&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizaValezim&layout=compact&langs_count=7&theme=react"/>
@@ -52,7 +52,7 @@
 	
 <div align="center">
 	<img align="center" height="200" width="400" alt="ChordsTheory Banners" title="ChordsTheory" src="./banners/chordstheory_banner.png" />
-	<img align="center" height="200" width="400" alt="ChordsTheory Banners" title="ChordsTheory" src="./banners/chordstheory_banner.png" />
+<!-- 	<img align="center" height="200" width="400" alt="ChordsTheory Banners" title="ChordsTheory" src="./banners/chordstheory_banner.png" /> -->
 </div>
 	
 ---

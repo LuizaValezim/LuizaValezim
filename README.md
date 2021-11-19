@@ -51,8 +51,8 @@
 <h4> The ones with the GitHub logo are on my GitHub if you want to check it out! </h4>
 	
 <div>
-	<img align="center" height="250" width="500" alt="ChordsTheory Banners" title="ChordsTheory" src="./banners/chordstheory_banner.png" />
-	<img align="center" height="250" width="500" alt="ChordsTheory Banners" title="ChordsTheory" src="./banners/chordstheory_banner.png" />
+	<img align="center" height="200" width="400" alt="ChordsTheory Banners" title="ChordsTheory" src="./banners/chordstheory_banner.png" />
+	<img align="center" height="200" width="400" alt="ChordsTheory Banners" title="ChordsTheory" src="./banners/chordstheory_banner.png" />
 </div>
 	
 ---

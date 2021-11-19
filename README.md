@@ -47,8 +47,8 @@
 
 
 ---
-### Here are some of my projects!
-### The ones with the GitHub logo are on my GitHub if you want to check it out!
+<h2 align="center"> Here are some of my projects! - ⚙️ </h2>
+<h4> The ones with the GitHub logo are on my GitHub if you want to check it out! </h4>
 	
 <div>
 	<img align="center" height="250" width="500" alt="ChordsTheory Banners" title="ChordsTheory" src="./banners/chordstheory_banner.png" />

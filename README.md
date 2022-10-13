@@ -3,7 +3,7 @@
 
 - 🔭 Software developer at Gauss Capital
 - 👩‍💻 Computer Engineering Student at Insper
-- 👩 19 years old
+- 👩 20 years old
 - ✨ Extremely curious
 - 💖 Passionate about Machine Learning, Quantum Computing, and Astronomy
 - 🗺️ Fluent in English, Portuguese, and Spanish

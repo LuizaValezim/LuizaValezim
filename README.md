@@ -1,7 +1,6 @@
 
 ## Hi there 👋 I'm Luiza!
 
-- 🔭 Software developer at Gauss Capital
 - 👩‍💻 Computer Engineering Student at Insper
 - 👩 20 years old
 - ✨ Extremely curious

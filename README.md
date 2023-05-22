@@ -4,7 +4,7 @@
 - 👩‍💻 Computer Engineering Student at Insper
 - 👩 20 years old
 - ✨ Extremely curious
-- 💖 Passionate about Machine Learning, Quantum Computing, and Astronomy
+- 💖 Passionate about Quantum Computing, Artificial Intelligence and Astronomy
 - 🗺️ Fluent in English, Portuguese, and Spanish
 
 <div align="center">

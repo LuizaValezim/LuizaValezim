@@ -2,7 +2,7 @@
 ## Hi there 👋 I'm Luiza!
 
 - 👩‍💻 Computer Engineering Student at Insper
-- 👩 20 years old
+- 👩 21 years old
 - ✨ Extremely curious
 - 💖 Passionate about Quantum Computing, Artificial Intelligence and Astronomy
 - 🗺️ Fluent in English, Portuguese, and Spanish
